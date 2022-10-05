@@ -1,0 +1,15 @@
+/home/saint/Desktop/FindingBiggestThreeNumbers/bin/Debug/net6.0/FindingBiggestThreeNumbers
+/home/saint/Desktop/FindingBiggestThreeNumbers/bin/Debug/net6.0/FindingBiggestThreeNumbers.deps.json
+/home/saint/Desktop/FindingBiggestThreeNumbers/bin/Debug/net6.0/FindingBiggestThreeNumbers.runtimeconfig.json
+/home/saint/Desktop/FindingBiggestThreeNumbers/bin/Debug/net6.0/FindingBiggestThreeNumbers.dll
+/home/saint/Desktop/FindingBiggestThreeNumbers/bin/Debug/net6.0/FindingBiggestThreeNumbers.pdb
+/home/saint/Desktop/FindingBiggestThreeNumbers/obj/Debug/net6.0/FindingBiggestThreeNumbers.csproj.AssemblyReference.cache
+/home/saint/Desktop/FindingBiggestThreeNumbers/obj/Debug/net6.0/FindingBiggestThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/FindingBiggestThreeNumbers/obj/Debug/net6.0/FindingBiggestThreeNumbers.AssemblyInfoInputs.cache
+/home/saint/Desktop/FindingBiggestThreeNumbers/obj/Debug/net6.0/FindingBiggestThreeNumbers.AssemblyInfo.cs
+/home/saint/Desktop/FindingBiggestThreeNumbers/obj/Debug/net6.0/FindingBiggestThreeNumbers.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/FindingBiggestThreeNumbers/obj/Debug/net6.0/FindingBiggestThreeNumbers.dll
+/home/saint/Desktop/FindingBiggestThreeNumbers/obj/Debug/net6.0/refint/FindingBiggestThreeNumbers.dll
+/home/saint/Desktop/FindingBiggestThreeNumbers/obj/Debug/net6.0/FindingBiggestThreeNumbers.pdb
+/home/saint/Desktop/FindingBiggestThreeNumbers/obj/Debug/net6.0/FindingBiggestThreeNumbers.genruntimeconfig.cache
+/home/saint/Desktop/FindingBiggestThreeNumbers/obj/Debug/net6.0/ref/FindingBiggestThreeNumbers.dll
